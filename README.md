@@ -2,6 +2,6 @@
 
 DIY searchable cocktail recipe tool
 
-[Recipes](recipes/)
-[Project Goals](goals)
+* [Recipes](recipes/)
+* [Project Goals](goals)
 
