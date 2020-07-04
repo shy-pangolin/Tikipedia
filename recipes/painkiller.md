@@ -2,7 +2,6 @@
 
 
 ## Components
-
 * 1 oz Orange Juice
 * 1 oz Cream of Coconut
 * 4 oz Pineapple Juice
