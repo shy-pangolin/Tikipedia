@@ -2,12 +2,12 @@
 
 
 ## Component
-* 3/4 oz Lime Juice
+* 0.75 oz Lime Juice
 * 1 oz Orange Juice
 * 0.75 oz Gardenia Mix\*
 * 0.75 oz Demerara Rum \*\*
 * 1.5 oz Puerto Rican Rum
-* 1/2 oz Jamaican Rum
+* 0.5 oz Jamaican Rum
 * 1 tsp Falernum
 
 

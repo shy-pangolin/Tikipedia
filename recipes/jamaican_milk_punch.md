@@ -3,7 +3,7 @@
 ## Components
 * 1 oz Whole Milk
 * 1 oz Heavy Whipping Cream
-* 1/2 oz Demerara Syrup
+* 0.5 oz Demerara Syrup
 * 1 oz Black Blended Rum\*
 * 6 drops Vanilla Extract
 * 1 dash Angostura Bitters

@@ -2,7 +2,7 @@
 
 
 ## Components
-* 1/2 oz Falernum
+* 0.5 oz Falernum
 * 2 oz Blended Aged Rum\*
 * 4 dashes Angostura Bitters
 
