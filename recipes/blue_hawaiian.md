@@ -1,4 +1,4 @@
-# Blue hawaiian
+# Blue Hawaiian
 
 ## Components
 * 1 oz White Rum
