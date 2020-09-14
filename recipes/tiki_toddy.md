@@ -1,4 +1,6 @@
-# Tiki Toddy (WIP)
+# Tiki Toddy
+
+Literally just a hot toddy made from tiki ingredients. I'm sure there are a million variations on this, but this is the recipe I use for my personal toddies.
 
 ## Components
 * 2 oz Plantation Pineapple Rum
