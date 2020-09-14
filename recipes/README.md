@@ -8,6 +8,7 @@ This is the WIP list of recipes i'll be building search capabilities for later. 
 * [Painkiller](painkiller)
 * [Pearl Diver](pearl_diver)
 * [Sidewinder's Fang](sidewinders_fang)
+* [Tiki Toddy](tiki_toddy)
 
 ## Sources
 1. Smuggler's cove book
